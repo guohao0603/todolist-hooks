@@ -1,0 +1,26 @@
+.topic{
+    font-size: .14rem;
+    margin-bottom: .1rem;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
+.edit-input {
+    width: .14rem;
+    height: .14rem;
+    margin-left: 0.1rem;
+}
+.edit-input input {
+    width: .14rem;
+    height: .14rem;
+}
+.comfirm-btn{
+    width: 100%;
+    margin-top: .4rem;
+}
+.text-area{
+    width: 100%;
+    min-height: 1rem;
+    border: 1px solid #dddddd;
+    padding: .05rem;
+}

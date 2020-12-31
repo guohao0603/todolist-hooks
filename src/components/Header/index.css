@@ -1,0 +1,23 @@
+.header{
+    position: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top:0;
+    left:0;
+    width: 100%;
+    height: .44rem;
+    background-color: #46b8da;
+}
+h1{
+    text-align: center;
+    line-height: .44rem;
+    font-size: .18rem;
+    color: #ffffff;
+}
+.icon{
+    position: absolute;
+    right: .15rem;
+    font-size: .22rem;
+    color: #ffffff;
+}
